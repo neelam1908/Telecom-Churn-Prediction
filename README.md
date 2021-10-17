@@ -1,0 +1,2 @@
+# Telecom-Churn-Prediction
+The company suffers from the following problems:  Due to the boom in the telecom industry with 4G technology, it has become a pain in the neck for the company to retain their customers. They are in the middle of setting up more cell sites on the 4G network to improve their 4G services. It is plausible for customers to choose 4G services over 3G services due to benefits of cost, speed, latency etc.
